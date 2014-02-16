@@ -1,6 +1,6 @@
 # elasticsearch
 
-FROM meepshop/meep-base
+FROM meepshop/meepbase
 
 MAINTAINER meepshop "https://github.com/meepshop"
 
