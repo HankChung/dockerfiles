@@ -1,4 +1,4 @@
-# elasticsearch
+# elasticsearch ( meepbase + jvm + es)
 
 FROM meepshop/meepbase
 
